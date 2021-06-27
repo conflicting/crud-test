@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SAFCSP\\.nuget\\packages\\": {}
+    "C:\\Users\\Yasmin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SAFCSP\\Desktop\\hanan\\crud-test\\test\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\Yasmin\\Documents\\.NET Bootcamp\\Git\\crud-test\\test\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\SAFCSP\\Desktop\\hanan\\crud-test\\test\\test\\test.csproj",
-      "packagesPath": "C:\\Users\\SAFCSP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SAFCSP\\Desktop\\hanan\\crud-test\\test\\test\\obj\\",
+      "projectPath": "C:\\Users\\Yasmin\\Documents\\.NET Bootcamp\\Git\\crud-test\\test\\test\\test.csproj",
+      "packagesPath": "C:\\Users\\Yasmin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yasmin\\Documents\\.NET Bootcamp\\Git\\crud-test\\test\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SAFCSP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yasmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
