@@ -12,6 +12,7 @@ namespace test.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+
         public List<EmployeeModel> _Products = new List<EmployeeModel>()
         {
             new EmployeeModel{ Id = 1, Name = "Yasmin", Gender = "f"},
@@ -19,6 +20,7 @@ namespace test.Controllers
             new EmployeeModel{ Id = 3, Name = "Abdulrahman", Gender = "m"},
 
         };
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -39,5 +41,7 @@ namespace test.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        
     }
 }

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Yasmin\\.nuget\\packages\\": {}
+    "C:\\Users\\abdul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yasmin\\Documents\\.NET Bootcamp\\Git\\crud-test\\test\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\.net\\crud-test\\test\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\Yasmin\\Documents\\.NET Bootcamp\\Git\\crud-test\\test\\test\\test.csproj",
-      "packagesPath": "C:\\Users\\Yasmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yasmin\\Documents\\.NET Bootcamp\\Git\\crud-test\\test\\test\\obj\\",
+      "projectPath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\.net\\crud-test\\test\\test\\test.csproj",
+      "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\.net\\crud-test\\test\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Yasmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
